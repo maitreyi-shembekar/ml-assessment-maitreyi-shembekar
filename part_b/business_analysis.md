@@ -12,7 +12,7 @@ Candidate Input Features:
 - is weekend?
 - is festival?
 
-Since we are trying to predict numerical values, rather than a categrory, this would make the machine learning problem of **Regression** type.
+Since we are trying to predict numerical values, rather than a category, this would make the machine learning problem of **Regression** type.
 
 **(b)** Total sales revenue is more broader and general, meaning it doesn't offer much details and can be skewed by promotions. For example, promotions can increase the sales even if revenue is low. "items sold" can offer a cleaner measure of customer response to a given promotion. Hence items sold is a more reliable option. A target revenue should directly reflect business objective.
 
